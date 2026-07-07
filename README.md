@@ -1,4 +1,4 @@
-# Retail-Sales-Analytics-Tableau Dashboard
+# Retail-Sales-Analytics-Dashboard
 ## Project Objective
 
 Develop an interactive Tableau dashboard using the Northwind OData database to analyze sales performance, customer behavior, product performance, and business KPIs.
