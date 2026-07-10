@@ -1,64 +1,56 @@
-# Business Requirements Document
+# Business Requirements
 
-## Project Name
-
+## Project Title
 Retail Sales Analytics Dashboard
 
----
+## Objective
 
-## Business Objective
+Develop an interactive Tableau dashboard that enables business stakeholders to analyze retail sales performance, monitor key business metrics, identify top-performing products and customers, and make data-driven decisions.
 
-Develop an interactive Tableau dashboard using the Northwind Retail Sales dataset to analyze sales performance, customer behavior, product performance, and regional sales trends. The dashboard will help business users monitor KPIs and make data-driven decisions.
+## Business Goals
 
----
-
-## Stakeholders
-
-- Sales Manager
-- Regional Manager
-- Marketing Team
-- Executive Management
-
----
-
-## Business Problems
-
-- Difficulty tracking sales performance across regions.
-- Lack of visibility into top-selling products.
-- Limited understanding of customer purchasing behavior.
-- Manual reporting consumes significant time.
-
----
-
-## Dashboard Objectives
-
-The dashboard should enable users to:
-
-- Monitor Total Sales
-- Monitor Total Orders
-- Monitor Total Profit
-- Analyze Sales by Category
-- Analyze Sales by Region
-- Identify Top Customers
-- Identify Top Products
-- Analyze Monthly Sales Trends
-
----
+- Monitor overall sales performance.
+- Track customer purchasing behavior.
+- Analyze sales across product categories.
+- Identify top-performing products.
+- Identify high-value customers.
+- Analyze sales distribution by country.
+- Monitor monthly sales trends.
 
 ## Key Performance Indicators (KPIs)
 
 - Total Sales
 - Total Orders
-- Total Profit
-- Average Order Value
 - Total Customers
-- Top Selling Product
-- Top Customer
-- Sales by Region
+- Average Order Value
+- Sales per Customer
+- Total Quantity Sold
+- Total Products
+
+## Dashboard Requirements
+
+### Executive Dashboard
+
+- KPI Cards
+- Sales by Category
 - Monthly Sales Trend
 
----
+### Country & Product Insights
+
+- Sales by Country
+- Top 10 Products by Sales
+
+### Customer Insights
+
+- Top 10 Customers by Sales
+
+## Filters
+
+- Category
+- Month
+- Country
+- Customer
 
 ## Expected Outcome
 
-Provide an interactive Tableau dashboard that helps business stakeholders monitor sales performance, identify growth opportunities, and make informed business decisions.
+The dashboard should provide business users with an interactive and easy-to-understand view of retail sales performance, helping them identify trends, opportunities, and areas for improvement.
